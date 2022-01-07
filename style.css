@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+/*Top Banner Start*/
+.top{
+    margin-top: 40px;
+}
+
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.text{
+    padding: 100px 0px 0px 60px;
+}
+
+#left-color{
+    border-left: 3px solid;
+    border-image: linear-gradient(180deg, tomato, lightsalmon);
+    border-image-slice: 1;
+}
+
+.heading h1{
+    font-size: 50px;
+    margin-left: 10px;
+}
+
+.heading span{
+    color: tomato;
+}
+
+.half-width p{
+    font-weight: 200;
+    padding: 25px 0px 25px 10px;
+}
+
+.anchor{
+    text-decoration: none;
+    background: linear-gradient(45deg, orange, red);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.half-width img{
+    width: 80%;
+}
+/*Top Banner End*/
+
+
+/*My Mission in 2022 and Our Team Start*/
+.mission22{
+    display: flex;
+    padding: 30px 0px 0px 65px;
+}
+
+.mission{
+    background-color: thistle;
+    height: 350px;
+    width: 25%;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.mission2{
+    background-color: wheat;
+}
+
+.mission3{
+    background-color: yellowgreen;
+}
+
+.mission img{
+    height: 160px;
+    width: 160px;
+}
+/*My Mission in 2022 and Our Team End*/
+
+
+/* Develop Without Limits and Know our Global Community Start*/
+.dream{
+    display: flex;
+    padding: 50px 40px 0px 100px;
+}
+
+.dreamOne{
+    background-image: url("dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.two img{
+    height: 360px;
+    width: 360px;
+}
+
+.twoText{
+    padding: 50px;
+}
+
+.twoText h1{
+    font-weight: 900;
+    font-size: 35px;
+}
+
+.two p{
+    padding: 25px 0px 25px 10px;
+}
+
+.dreamTwo{
+    background-image: url("dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+/* Develop Without Limits and Know our Global Community End*/
+
+
+/* Footer Start*/
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 35px 0px 35px 0px;
+}
+/* Footer End*/
